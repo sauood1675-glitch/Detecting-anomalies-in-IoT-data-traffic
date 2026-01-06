@@ -1,0 +1,8 @@
+{
+  "basic_stats": {
+    "n_samples": 1500,
+    "n_noise": 1049,
+    "noise_percentage": 0.6993333333333334,
+    "n_clusters": 25,
+    "cluster_sizes": {
+      

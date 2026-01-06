@@ -1,0 +1,25 @@
+{
+  "accuracy": 0.8359913011960856,
+  "precision": 0.9216731597293418,
+  "recall": 0.8957752092467118,
+  "f1_score": 0.9085396664982315,
+  "roc_auc": 0.8464934236747709,
+  "confusion_matrix": [
+    [
+      118,
+      382
+    ],
+    [
+      523,
+      4495
+    ]
+  ],
+  "predictions_summary": {
+    "attacks_total": 5018,
+    "attacks_predicted_normal": 4495,
+    "attacks_predicted_outlier": 523,
+    "normal_total": 500,
+    "normal_predicted_normal": 382,
+    "normal_predicted_outlier": 118
+  }
+}
